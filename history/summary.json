@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 203,
-    "timeWeek": 218,
-    "timeMonth": 209,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 258,
+    "timeWeek": 244,
+    "timeMonth": 211,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
     "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "97.14%",
-    "time": 3995,
-    "timeDay": 2647,
-    "timeWeek": 3910,
-    "timeMonth": 4768,
-    "timeYear": 3995,
+    "uptime": "97.11%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "97.11%",
+    "time": 3991,
+    "timeDay": 2092,
+    "timeWeek": 3908,
+    "timeMonth": 4764,
+    "timeYear": 3991,
     "dailyMinutesDown": {
-      "2021-10-16": 37,
+      "2021-10-16": 27,
       "2021-10-15": 89,
       "2021-10-14": 81,
       "2021-10-13": 181,
@@ -56,7 +56,7 @@
       "2021-09-27": 96,
       "2021-09-26": 269,
       "2021-09-25": 263,
-      "2021-09-24": 130
+      "2021-09-24": 169
     }
   },
   {
@@ -66,17 +66,16 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.77%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "97.46%",
-    "time": 953,
-    "timeDay": 538,
+    "time": 952,
+    "timeDay": 526,
     "timeWeek": 1270,
-    "timeMonth": 942,
-    "timeYear": 953,
+    "timeMonth": 945,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2021-10-16": 10,
       "2021-10-14": 68,
       "2021-10-13": 157,
       "2021-10-12": 104,
@@ -111,7 +110,7 @@
       "2021-09-04": 19,
       "2021-09-03": 121,
       "2021-09-02": 89,
-      "2021-09-01": 57
+      "2021-09-01": 73
     }
   }
 ]
