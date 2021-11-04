@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 117,
-    "timeWeek": 141,
-    "timeMonth": 188,
-    "timeYear": 218,
+    "time": 216,
+    "timeDay": 75,
+    "timeWeek": 112,
+    "timeMonth": 187,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "97.85%",
-    "time": 4065,
-    "timeDay": 4261,
-    "timeWeek": 4751,
-    "timeMonth": 4357,
-    "timeYear": 4065,
+    "time": 4062,
+    "timeDay": 4979,
+    "timeWeek": 4491,
+    "timeMonth": 4321,
+    "timeYear": 4062,
     "dailyMinutesDown": {
-      "2021-11-04": 115,
+      "2021-11-04": 104,
       "2021-11-03": 150,
       "2021-11-02": 183,
       "2021-11-01": 76,
@@ -58,7 +58,7 @@
       "2021-10-14": 81,
       "2021-10-13": 181,
       "2021-10-12": 164,
-      "2021-10-11": 56
+      "2021-10-11": 71
     }
   },
   {
@@ -66,17 +66,17 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "93.90%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "94.51%",
     "uptimeMonth": "95.04%",
-    "uptimeYear": "97.88%",
-    "time": 950,
-    "timeDay": 1312,
-    "timeWeek": 763,
+    "uptimeYear": "97.91%",
+    "time": 949,
+    "timeDay": 1711,
+    "timeWeek": 776,
     "timeMonth": 1035,
-    "timeYear": 950,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2021-11-04": 84,
       "2021-11-03": 124,
@@ -113,7 +113,7 @@
       "2021-09-29": 38,
       "2021-09-28": 49,
       "2021-09-27": 39,
-      "2021-09-24": 54
+      "2021-09-24": 20
     }
   }
 ]
