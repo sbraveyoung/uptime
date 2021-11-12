@@ -22,19 +22,19 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "94.76%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "94.72%",
     "uptimeWeek": "95.26%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "98.07%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "98.10%",
     "time": 4014,
     "timeDay": 1950,
     "timeWeek": 3138,
-    "timeMonth": 3925,
+    "timeMonth": 3935,
     "timeYear": 4014,
     "dailyMinutesDown": {
-      "2021-11-12": 17,
+      "2021-11-12": 18,
       "2021-11-11": 122,
       "2021-11-10": 101,
       "2021-11-09": 73,
@@ -60,8 +60,7 @@
       "2021-10-19": 90,
       "2021-10-18": 85,
       "2021-10-17": 75,
-      "2021-10-16": 27,
-      "2021-10-15": 29
+      "2021-10-16": 27
     }
   },
   {
@@ -69,12 +68,12 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "95.92%",
+    "status": "down",
+    "uptime": "98.02%",
+    "uptimeDay": "95.90%",
     "uptimeWeek": "96.50%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "98.02%",
     "time": 920,
     "timeDay": 505,
     "timeWeek": 569,
@@ -116,7 +115,7 @@
       "2021-10-06": 54,
       "2021-10-04": 18,
       "2021-10-03": 119,
-      "2021-10-02": 49
+      "2021-10-02": 34
     }
   }
 ]
