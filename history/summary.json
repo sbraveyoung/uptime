@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 248,
-    "timeWeek": 179,
-    "timeMonth": 173,
-    "timeYear": 212,
+    "time": 210,
+    "timeDay": 76,
+    "timeWeek": 160,
+    "timeMonth": 169,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
     "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "98.17%",
-    "time": 3968,
-    "timeDay": 2184,
-    "timeWeek": 2983,
-    "timeMonth": 3869,
-    "timeYear": 3968,
+    "uptime": "98.16%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "98.16%",
+    "time": 3966,
+    "timeDay": 2389,
+    "timeWeek": 3007,
+    "timeMonth": 3858,
+    "timeYear": 3966,
     "dailyMinutesDown": {
-      "2021-11-15": 125,
+      "2021-11-15": 115,
       "2021-11-14": 48,
       "2021-11-13": 96,
       "2021-11-12": 69,
@@ -59,7 +59,7 @@
       "2021-10-23": 72,
       "2021-10-22": 108,
       "2021-10-21": 233,
-      "2021-10-20": 74
+      "2021-10-20": 102
     }
   },
   {
@@ -69,17 +69,17 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "95.49%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "98.07%",
-    "time": 899,
-    "timeDay": 550,
+    "time": 898,
+    "timeDay": 522,
     "timeWeek": 550,
-    "timeMonth": 809,
-    "timeYear": 899,
+    "timeMonth": 808,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2021-11-15": 125,
+      "2021-11-15": 115,
       "2021-11-14": 27,
       "2021-11-13": 75,
       "2021-11-12": 86,
@@ -113,7 +113,7 @@
       "2021-10-10": 62,
       "2021-10-09": 120,
       "2021-10-08": 23,
-      "2021-10-07": 82
+      "2021-10-07": 103
     }
   }
 ]
