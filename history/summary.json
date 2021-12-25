@@ -69,12 +69,12 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "93.73%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "93.72%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.71%",
     "time": 848,
     "timeDay": 493,
     "timeWeek": 1078,
@@ -114,8 +114,7 @@
       "2021-11-10": 69,
       "2021-11-09": 60,
       "2021-11-08": 41,
-      "2021-11-05": 61,
-      "2021-11-04": 36
+      "2021-11-05": 61
     }
   }
 ]
