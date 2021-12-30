@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 74,
-    "timeWeek": 97,
-    "timeMonth": 124,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 181,
+    "timeWeek": 108,
+    "timeMonth": 123,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -22,16 +22,16 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "91.83%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "91.82%",
     "uptimeMonth": "94.54%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 3666,
-    "timeDay": 1973,
-    "timeWeek": 2391,
-    "timeMonth": 2461,
+    "timeDay": 2101,
+    "timeWeek": 2294,
+    "timeMonth": 2464,
     "timeYear": 3666,
     "dailyMinutesDown": {
       "2021-12-30": 66,
@@ -62,8 +62,7 @@
       "2021-11-22": 138,
       "2021-11-21": 42,
       "2021-11-20": 61,
-      "2021-11-19": 40,
-      "2021-11-18": 20
+      "2021-11-19": 40
     }
   },
   {
@@ -71,16 +70,16 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "92.18%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "92.17%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.66%",
     "time": 846,
-    "timeDay": 1316,
-    "timeWeek": 867,
-    "timeMonth": 796,
+    "timeDay": 1475,
+    "timeWeek": 751,
+    "timeMonth": 798,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2021-12-30": 65,
@@ -114,8 +113,7 @@
       "2021-11-17": 64,
       "2021-11-16": 96,
       "2021-11-15": 115,
-      "2021-11-14": 27,
-      "2021-11-13": 29
+      "2021-11-14": 27
     }
   }
 ]
