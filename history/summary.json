@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 181,
-    "timeWeek": 108,
-    "timeMonth": 126,
+    "timeDay": 129,
+    "timeWeek": 106,
+    "timeMonth": 123,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "86.17%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "98.66%",
-    "time": 3671,
-    "timeDay": 4009,
-    "timeWeek": 2733,
-    "timeMonth": 2553,
-    "timeYear": 3671,
+    "time": 3669,
+    "timeDay": 4172,
+    "timeWeek": 2739,
+    "timeMonth": 2551,
+    "timeYear": 3669,
     "dailyMinutesDown": {
-      "2021-12-31": 181,
+      "2021-12-31": 167,
       "2021-12-30": 66,
       "2021-12-29": 109,
       "2021-12-28": 67,
@@ -60,7 +60,8 @@
       "2021-12-05": 43,
       "2021-12-04": 54,
       "2021-11-23": 68,
-      "2021-11-22": 138
+      "2021-11-22": 138,
+      "2021-11-21": 19
     }
   },
   {
@@ -69,18 +70,18 @@
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "94.67%",
-    "uptimeYear": "98.66%",
-    "time": 856,
-    "timeDay": 1398,
-    "timeWeek": 927,
+    "uptime": "98.65%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "98.65%",
+    "time": 855,
+    "timeDay": 1508,
+    "timeWeek": 928,
     "timeMonth": 840,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2021-12-31": 187,
+      "2021-12-31": 173,
       "2021-12-30": 65,
       "2021-12-29": 132,
       "2021-12-28": 67,
@@ -110,7 +111,7 @@
       "2021-11-19": 19,
       "2021-11-18": 99,
       "2021-11-17": 64,
-      "2021-11-16": 76
+      "2021-11-16": 96
     }
   }
 ]
