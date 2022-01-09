@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 79,
-    "timeWeek": 105,
-    "timeMonth": 111,
+    "timeDay": 69,
+    "timeWeek": 102,
+    "timeMonth": 110,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "90.39%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "90.38%",
     "uptimeWeek": "92.58%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "98.73%",
-    "time": 3645,
-    "timeDay": 3352,
-    "timeWeek": 3279,
-    "timeMonth": 2855,
-    "timeYear": 3645,
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "98.74%",
+    "time": 3647,
+    "timeDay": 4107,
+    "timeWeek": 3307,
+    "timeMonth": 2880,
+    "timeYear": 3647,
     "dailyMinutesDown": {
       "2022-01-09": 138,
       "2022-01-08": 20,
@@ -61,7 +61,7 @@
       "2021-12-13": 52,
       "2021-12-12": 16,
       "2021-12-11": 151,
-      "2021-12-10": 68
+      "2021-12-10": 46
     }
   },
   {
@@ -69,17 +69,17 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "93.51%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "98.69%",
-    "time": 864,
-    "timeDay": 845,
-    "timeWeek": 849,
-    "timeMonth": 958,
-    "timeYear": 864,
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "90.37%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "94.36%",
+    "uptimeYear": "98.70%",
+    "time": 870,
+    "timeDay": 1508,
+    "timeWeek": 854,
+    "timeMonth": 989,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2022-01-09": 138,
       "2022-01-08": 28,
@@ -110,7 +110,7 @@
       "2021-12-09": 239,
       "2021-12-08": 69,
       "2021-12-07": 61,
-      "2021-12-06": 66
+      "2021-12-06": 43
     }
   }
 ]
