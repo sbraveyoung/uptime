@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 73,
-    "timeWeek": 99,
-    "timeMonth": 110,
+    "timeDay": 158,
+    "timeWeek": 110,
+    "timeMonth": 113,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "89.93%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "98.70%",
-    "time": 3696,
-    "timeDay": 4441,
-    "timeWeek": 4620,
-    "timeMonth": 3431,
-    "timeYear": 3696,
+    "time": 3694,
+    "timeDay": 4425,
+    "timeWeek": 4708,
+    "timeMonth": 3456,
+    "timeYear": 3694,
     "dailyMinutesDown": {
-      "2022-01-15": 111,
+      "2022-01-15": 98,
       "2022-01-14": 74,
       "2022-01-13": 178,
       "2022-01-12": 117,
@@ -58,7 +58,7 @@
       "2021-12-25": 104,
       "2021-12-24": 59,
       "2021-12-23": 85,
-      "2021-12-22": 22
+      "2021-12-22": 51
     }
   },
   {
@@ -68,17 +68,17 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "98.73%",
     "time": 856,
-    "timeDay": 564,
-    "timeWeek": 751,
-    "timeMonth": 936,
+    "timeDay": 572,
+    "timeWeek": 757,
+    "timeMonth": 941,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2022-01-15": 46,
+      "2022-01-15": 33,
       "2022-01-14": 74,
       "2022-01-13": 87,
       "2022-01-12": 153,
@@ -108,7 +108,8 @@
       "2021-12-14": 49,
       "2021-12-13": 17,
       "2021-12-12": 16,
-      "2021-12-11": 151
+      "2021-12-11": 151,
+      "2021-12-10": 15
     }
   }
 ]
