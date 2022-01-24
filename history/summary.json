@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 152,
-    "timeWeek": 153,
+    "timeDay": 144,
+    "timeWeek": 149,
     "timeMonth": 122,
     "timeYear": 180,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "89.39%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "98.82%",
-    "time": 3655,
-    "timeDay": 2380,
-    "timeWeek": 2747,
-    "timeMonth": 3400,
-    "timeYear": 3655,
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "91.74%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "98.83%",
+    "time": 3654,
+    "timeDay": 2424,
+    "timeWeek": 2744,
+    "timeMonth": 3402,
+    "timeYear": 3654,
     "dailyMinutesDown": {
       "2022-01-24": 152,
       "2022-01-23": 154,
@@ -56,7 +56,7 @@
       "2022-01-05": 30,
       "2022-01-04": 77,
       "2022-01-03": 328,
-      "2022-01-02": 229
+      "2022-01-02": 204
     }
   },
   {
@@ -64,16 +64,16 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "92.51%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "98.90%",
     "time": 831,
-    "timeDay": 489,
-    "timeWeek": 512,
-    "timeMonth": 775,
+    "timeDay": 521,
+    "timeWeek": 515,
+    "timeMonth": 777,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2022-01-24": 136,
@@ -102,8 +102,7 @@
       "2021-12-31": 173,
       "2021-12-30": 65,
       "2021-12-29": 132,
-      "2021-12-28": 67,
-      "2021-12-27": 28
+      "2021-12-28": 67
     }
   }
 ]
