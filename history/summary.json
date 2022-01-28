@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 135,
-    "timeWeek": 140,
-    "timeMonth": 125,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 76,
+    "timeWeek": 127,
+    "timeMonth": 123,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "91.31%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "91.28%",
     "uptimeWeek": "93.40%",
-    "uptimeMonth": "93.66%",
-    "uptimeYear": "98.88%",
-    "time": 3637,
-    "timeDay": 3590,
-    "timeWeek": 2689,
-    "timeMonth": 3373,
-    "timeYear": 3637,
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "98.89%",
+    "time": 3635,
+    "timeDay": 3794,
+    "timeWeek": 2685,
+    "timeMonth": 3371,
+    "timeYear": 3635,
     "dailyMinutesDown": {
+      "2022-01-28": 0,
       "2022-01-27": 125,
       "2022-01-26": 75,
       "2022-01-25": 41,
@@ -58,7 +59,7 @@
       "2022-01-06": 96,
       "2022-01-05": 30,
       "2022-01-04": 77,
-      "2022-01-03": 220
+      "2022-01-03": 197
     }
   },
   {
@@ -66,18 +67,19 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "92.72%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "92.70%",
     "uptimeWeek": "93.98%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "98.92%",
-    "time": 835,
-    "timeDay": 1595,
-    "timeWeek": 685,
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "98.93%",
+    "time": 834,
+    "timeDay": 1590,
+    "timeWeek": 683,
     "timeMonth": 792,
-    "timeYear": 835,
+    "timeYear": 834,
     "dailyMinutesDown": {
+      "2022-01-28": 0,
       "2022-01-27": 105,
       "2022-01-26": 75,
       "2022-01-25": 41,
@@ -105,7 +107,7 @@
       "2022-01-02": 164,
       "2022-01-01": 24,
       "2021-12-31": 173,
-      "2021-12-30": 49
+      "2021-12-30": 18
     }
   }
 ]
