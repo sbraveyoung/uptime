@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 113,
     "timeMonth": 124,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   },
   {
     "name": "My blog(CDN)",
@@ -24,7 +26,7 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "62.94%",
+    "uptimeDay": "66.78%",
     "uptimeWeek": "89.13%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "98.81%",
@@ -67,7 +69,7 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "67.38%",
+    "uptimeDay": "71.22%",
     "uptimeWeek": "90.07%",
     "uptimeMonth": "93.66%",
     "uptimeYear": "98.90%",
