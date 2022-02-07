@@ -25,11 +25,11 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "72.81%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "89.06%",
+    "uptimeWeek": "72.80%",
+    "uptimeMonth": "92.20%",
     "uptimeYear": "98.69%",
     "time": 3622,
     "timeDay": 2470,
@@ -51,7 +51,7 @@
       "2022-01-27": 125,
       "2022-01-26": 75,
       "2022-01-25": 41,
-      "2022-01-24": 51
+      "2022-01-24": 35
     }
   },
   {
@@ -59,12 +59,12 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "92.18%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "92.16%",
     "uptimeWeek": "77.31%",
-    "uptimeMonth": "92.66%",
-    "uptimeYear": "98.77%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "98.78%",
     "time": 1015,
     "timeDay": 512,
     "timeWeek": 2116,
@@ -87,8 +87,7 @@
       "2022-01-25": 41,
       "2022-01-24": 136,
       "2022-01-23": 154,
-      "2022-01-22": 7,
-      "2022-01-21": 21
+      "2022-01-22": 7
     }
   }
 ]
