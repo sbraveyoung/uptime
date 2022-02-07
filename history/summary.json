@@ -25,15 +25,15 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "89.07%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "89.06%",
     "uptimeWeek": "72.67%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "98.69%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "98.70%",
     "time": 3620,
     "timeDay": 2381,
-    "timeWeek": 3457,
+    "timeWeek": 3432,
     "timeMonth": 3532,
     "timeYear": 3620,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
       "2022-01-28": 88,
       "2022-01-27": 125,
       "2022-01-26": 75,
-      "2022-01-25": 41
+      "2022-01-25": 16
     }
   },
   {
@@ -66,7 +66,7 @@
     "uptimeYear": "98.78%",
     "time": 1014,
     "timeDay": 513,
-    "timeWeek": 2077,
+    "timeWeek": 2051,
     "timeMonth": 1354,
     "timeYear": 1014,
     "dailyMinutesDown": {
