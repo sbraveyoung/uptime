@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 135,
-    "timeWeek": 114,
-    "timeMonth": 121,
+    "timeDay": 165,
+    "timeWeek": 122,
+    "timeMonth": 123,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-02-07": 0,
+      "2022-02-07": 10,
       "2022-02-02": 58,
       "2022-02-01": 27
     }
@@ -26,12 +26,12 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "87.21%",
-    "uptimeWeek": "73.97%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "87.20%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "98.71%",
     "time": 3615,
     "timeDay": 2294,
     "timeWeek": 3391,
@@ -50,7 +50,7 @@
       "2022-01-29": 103,
       "2022-01-28": 88,
       "2022-01-27": 125,
-      "2022-01-26": 75
+      "2022-01-26": 38
     }
   },
   {
@@ -58,11 +58,11 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "88.92%",
-    "uptimeWeek": "78.57%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "78.66%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "98.79%",
     "time": 1012,
     "timeDay": 511,
@@ -85,7 +85,7 @@
       "2022-01-26": 75,
       "2022-01-25": 41,
       "2022-01-24": 136,
-      "2022-01-23": 88
+      "2022-01-23": 71
     }
   }
 ]
