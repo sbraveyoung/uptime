@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 175,
     "timeDay": 478,
-    "timeWeek": 152,
+    "timeWeek": 155,
     "timeMonth": 134,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "80.25%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "98.72%",
     "time": 3594,
     "timeDay": 2067,
-    "timeWeek": 3176,
+    "timeWeek": 3148,
     "timeMonth": 3428,
     "timeYear": 3594,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2022-02-08": 114,
       "2022-02-07": 247,
       "2022-02-06": 138,
@@ -48,7 +49,7 @@
       "2022-01-31": 460,
       "2022-01-30": 124,
       "2022-01-29": 103,
-      "2022-01-28": 88
+      "2022-01-28": 70
     }
   },
   {
@@ -56,18 +57,19 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "93.85%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "93.82%",
     "uptimeWeek": "84.02%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "98.83%",
     "time": 1003,
     "timeDay": 501,
     "timeWeek": 1735,
     "timeMonth": 1319,
     "timeYear": 1003,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2022-02-08": 88,
       "2022-02-07": 221,
       "2022-02-06": 93,
@@ -82,7 +84,7 @@
       "2022-01-28": 68,
       "2022-01-27": 105,
       "2022-01-26": 75,
-      "2022-01-25": 41
+      "2022-01-25": 16
     }
   }
 ]
