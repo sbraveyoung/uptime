@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 175,
-    "timeDay": 142,
-    "timeWeek": 174,
-    "timeMonth": 137,
+    "timeDay": 161,
+    "timeWeek": 177,
+    "timeMonth": 139,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2022-02-02": 58,
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "52.76%",
-    "uptimeWeek": "82.60%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "98.78%",
-    "time": 3539,
-    "timeDay": 1801,
-    "timeWeek": 2108,
-    "timeMonth": 3126,
-    "timeYear": 3539,
+    "uptime": "98.77%",
+    "uptimeDay": "72.01%",
+    "uptimeWeek": "82.71%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "98.77%",
+    "time": 3538,
+    "timeDay": 1838,
+    "timeWeek": 2122,
+    "timeMonth": 3124,
+    "timeYear": 3538,
     "dailyMinutesDown": {
-      "2022-02-11": 440,
+      "2022-02-11": 430,
       "2022-02-10": 500,
       "2022-02-09": 243,
       "2022-02-08": 114,
@@ -47,7 +47,7 @@
       "2022-02-04": 257,
       "2022-02-03": 572,
       "2022-02-02": 654,
-      "2022-02-01": 39
+      "2022-02-01": 81
     }
   },
   {
@@ -57,17 +57,17 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "56.71%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "76.98%",
+    "uptimeWeek": "84.80%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "98.78%",
     "time": 980,
-    "timeDay": 532,
-    "timeWeek": 536,
-    "timeMonth": 1204,
+    "timeDay": 562,
+    "timeWeek": 533,
+    "timeMonth": 1206,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2022-02-11": 368,
+      "2022-02-11": 358,
       "2022-02-10": 402,
       "2022-02-09": 253,
       "2022-02-08": 88,
@@ -78,7 +78,7 @@
       "2022-02-03": 451,
       "2022-02-02": 473,
       "2022-02-01": 579,
-      "2022-01-31": 49
+      "2022-01-31": 79
     }
   }
 ]
