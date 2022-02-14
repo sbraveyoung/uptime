@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 175,
-    "timeDay": 136,
-    "timeWeek": 186,
-    "timeMonth": 139,
-    "timeYear": 175,
+    "time": 174,
+    "timeDay": 80,
+    "timeWeek": 179,
+    "timeMonth": 138,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2022-02-02": 58,
       "2022-02-01": 27
@@ -27,17 +27,16 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "83.84%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.84%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "98.79%",
-    "time": 3534,
-    "timeDay": 1680,
-    "timeWeek": 2078,
-    "timeMonth": 3048,
-    "timeYear": 3534,
+    "time": 3533,
+    "timeDay": 1727,
+    "timeWeek": 2071,
+    "timeMonth": 3030,
+    "timeYear": 3533,
     "dailyMinutesDown": {
-      "2022-02-13": 12,
       "2022-02-12": 19,
       "2022-02-11": 430,
       "2022-02-10": 500,
@@ -49,7 +48,7 @@
       "2022-02-04": 257,
       "2022-02-03": 572,
       "2022-02-02": 654,
-      "2022-02-01": 22
+      "2022-02-01": 39
     }
   },
   {
@@ -58,18 +57,17 @@
     "icon": "https://favicons.githubusercontent.com/smartbrave.github.io",
     "slug": "my-blog-github-io",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.94%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "98.80%",
     "time": 978,
-    "timeDay": 445,
-    "timeWeek": 532,
-    "timeMonth": 1221,
+    "timeDay": 458,
+    "timeWeek": 537,
+    "timeMonth": 1232,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2022-02-13": 11,
       "2022-02-12": 18,
       "2022-02-11": 358,
       "2022-02-10": 402,
@@ -81,7 +79,8 @@
       "2022-02-04": 167,
       "2022-02-03": 451,
       "2022-02-02": 473,
-      "2022-02-01": 500
+      "2022-02-01": 579,
+      "2022-01-31": 49
     }
   }
 ]
