@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 143,
-    "timeDay": 78,
-    "timeWeek": 161,
-    "timeMonth": 107,
+    "timeDay": 102,
+    "timeWeek": 165,
+    "timeMonth": 108,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-02-27": 18,
@@ -28,17 +28,16 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.49%",
     "time": 3441,
-    "timeDay": 2102,
-    "timeWeek": 3534,
-    "timeMonth": 2960,
+    "timeDay": 2277,
+    "timeWeek": 3377,
+    "timeMonth": 2972,
     "timeYear": 3441,
     "dailyMinutesDown": {
-      "2022-08-06": 13,
       "2022-08-01": 23,
       "2022-07-30": 22,
       "2022-07-29": 30,
@@ -86,7 +85,7 @@
       "2022-02-16": 32,
       "2022-02-12": 19,
       "2022-02-11": 430,
-      "2022-02-10": 414
+      "2022-02-10": 467
     }
   },
   {
@@ -101,9 +100,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.47%",
     "time": 1002,
-    "timeDay": 586,
-    "timeWeek": 580,
-    "timeMonth": 602,
+    "timeDay": 560,
+    "timeWeek": 581,
+    "timeMonth": 592,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2022-07-29": 18,
