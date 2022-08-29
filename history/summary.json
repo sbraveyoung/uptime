@@ -26,12 +26,12 @@
     "url": "https://sbrave.cn",
     "icon": "https://favicons.githubusercontent.com/sbrave.cn",
     "slug": "my-blog-cdn",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "98.29%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "98.28%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "96.87%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 3452,
     "timeDay": 5498,
     "timeWeek": 4295,
@@ -91,7 +91,7 @@
       "2022-03-14": 64,
       "2022-03-13": 64,
       "2022-03-12": 136,
-      "2022-03-11": 45
+      "2022-03-11": 19
     }
   },
   {
