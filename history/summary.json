@@ -99,10 +99,10 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/smartbrave.github.io.ico",
     "slug": "my-blog-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.33%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.48%",
     "time": 1037,
@@ -150,7 +150,7 @@
       "2022-02-10": 402,
       "2022-02-09": 253,
       "2022-02-08": 88,
-      "2022-02-07": 149
+      "2022-02-07": 128
     }
   }
 ]
