@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 136,
-    "timeDay": 70,
-    "timeWeek": 112,
-    "timeMonth": 125,
+    "timeDay": 87,
+    "timeWeek": 116,
+    "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2022-02-27": 18,
@@ -32,11 +32,11 @@
     "uptimeWeek": "97.27%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "99.37%",
-    "time": 3043,
-    "timeDay": 3574,
-    "timeWeek": 3409,
-    "timeMonth": 3001,
-    "timeYear": 3043,
+    "time": 3042,
+    "timeDay": 3542,
+    "timeWeek": 3372,
+    "timeMonth": 3006,
+    "timeYear": 3044,
     "dailyMinutesDown": {
       "2022-12-05": 61,
       "2022-12-03": 45,
@@ -101,17 +101,17 @@
     "slug": "my-blog-github-io",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.48%",
     "time": 1038,
-    "timeDay": 734,
-    "timeWeek": 750,
-    "timeMonth": 1143,
+    "timeDay": 749,
+    "timeWeek": 756,
+    "timeMonth": 1149,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2022-12-05": 44,
+      "2022-12-05": 31,
       "2022-12-03": 21,
       "2022-12-01": 16,
       "2022-11-28": 25,
@@ -150,7 +150,7 @@
       "2022-02-10": 402,
       "2022-02-09": 253,
       "2022-02-08": 88,
-      "2022-02-07": 128
+      "2022-02-07": 149
     }
   }
 ]
