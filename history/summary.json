@@ -36,7 +36,7 @@
     "timeDay": 2022,
     "timeWeek": 2164,
     "timeMonth": 3034,
-    "timeYear": 3104,
+    "timeYear": 3105,
     "dailyMinutesDown": {
       "2022-12-24": 40,
       "2022-12-23": 21,
@@ -94,18 +94,19 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/smartbrave.github.io.ico",
     "slug": "my-blog-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.48%",
-    "time": 1104,
+    "time": 1105,
     "timeDay": 961,
     "timeWeek": 1606,
     "timeMonth": 891,
-    "timeYear": 1126,
+    "timeYear": 1122,
     "dailyMinutesDown": {
+      "2022-12-30": 0,
       "2022-12-20": 17,
       "2022-12-09": 17,
       "2022-12-05": 31,
@@ -147,7 +148,7 @@
       "2022-02-10": 402,
       "2022-02-09": 253,
       "2022-02-08": 88,
-      "2022-02-07": 107
+      "2022-02-07": 87
     }
   }
 ]
