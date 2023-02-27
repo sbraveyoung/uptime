@@ -22,18 +22,19 @@
     "url": "https://sbrave.cn",
     "icon": "https://icons.duckduckgo.com/ip3/sbrave.cn.ico",
     "slug": "my-blog-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "71.70%",
+    "uptimeDay": "82.80%",
     "uptimeWeek": "91.33%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "99.51%",
     "time": 3004,
-    "timeDay": 4562,
+    "timeDay": 3674,
     "timeWeek": 4025,
     "timeMonth": 3338,
     "timeYear": 3027,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-26": 405,
       "2023-02-25": 327,
       "2023-02-24": 16,
@@ -78,8 +79,7 @@
       "2022-12-23": 21,
       "2022-12-22": 18,
       "2022-12-20": 18,
-      "2022-12-19": 25,
-      "2022-12-18": 18
+      "2022-12-19": 25
     }
   },
   {
