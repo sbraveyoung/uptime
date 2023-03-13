@@ -22,10 +22,10 @@
     "url": "https://sbrave.cn",
     "icon": "https://icons.duckduckgo.com/ip3/sbrave.cn.ico",
     "slug": "my-blog-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "83.38%",
-    "uptimeWeek": "96.18%",
+    "uptimeDay": "83.34%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "99.48%",
     "time": 3142,
@@ -34,7 +34,7 @@
     "timeMonth": 4025,
     "timeYear": 3141,
     "dailyMinutesDown": {
-      "2023-03-13": 18,
+      "2023-03-13": 19,
       "2023-03-12": 222,
       "2023-03-11": 50,
       "2023-03-10": 22,
@@ -68,8 +68,7 @@
       "2023-01-27": 17,
       "2023-01-25": 144,
       "2023-01-24": 23,
-      "2023-01-23": 23,
-      "2023-01-22": 16
+      "2023-01-23": 23
     }
   },
   {
@@ -77,9 +76,9 @@
     "url": "https://smartbrave.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/smartbrave.github.io.ico",
     "slug": "my-blog-github-io",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "85.58%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "85.57%",
     "uptimeWeek": "97.78%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.70%",
