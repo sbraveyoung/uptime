@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 218,
-    "timeWeek": 135,
-    "timeMonth": 276,
+    "timeDay": 174,
+    "timeWeek": 130,
+    "timeMonth": 270,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-07-14": 0
+      "2023-07-14": 15
     }
   },
   {
