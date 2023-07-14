@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 90,
-    "timeWeek": 105,
-    "timeMonth": 274,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "timeDay": 218,
+    "timeWeek": 135,
+    "timeMonth": 276,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "My blog(CDN)",
@@ -24,17 +26,16 @@
     "slug": "my-blog-cdn",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.50%",
     "time": 2944,
-    "timeDay": 3565,
+    "timeDay": 3963,
     "timeWeek": 2747,
-    "timeMonth": 2345,
+    "timeMonth": 2333,
     "timeYear": 2977,
     "dailyMinutesDown": {
-      "2023-07-14": 11,
       "2023-07-13": 24,
       "2023-07-10": 19,
       "2023-07-05": 16,
@@ -70,7 +71,7 @@
       "2023-05-24": 48,
       "2023-05-23": 106,
       "2023-05-22": 90,
-      "2023-05-21": 68
+      "2023-05-21": 83
     }
   },
   {
