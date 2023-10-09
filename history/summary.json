@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 109,
-    "timeWeek": 123,
-    "timeMonth": 117,
+    "timeDay": 68,
+    "timeWeek": 81,
+    "timeMonth": 116,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2023-07-28": 31
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 2893,
-    "timeDay": 334,
-    "timeWeek": 390,
-    "timeMonth": 381,
+    "time": 2891,
+    "timeDay": 360,
+    "timeWeek": 370,
+    "timeMonth": 376,
     "timeYear": 2883,
     "dailyMinutesDown": {
       "2023-09-02": 37,
@@ -88,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartbrave.github.io.ico",
     "slug": "my-blog-github-io",
     "status": "down",
-    "uptime": "90.14%",
+    "uptime": "90.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "79.02%",
-    "time": 981,
-    "timeDay": 26,
-    "timeWeek": 62,
-    "timeMonth": 71,
-    "timeYear": 1009,
+    "uptimeYear": "78.75%",
+    "time": 980,
+    "timeDay": 38,
+    "timeWeek": 58,
+    "timeMonth": 67,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-10-08": 35,
+      "2023-10-09": 33,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -202,8 +203,7 @@
       "2022-10-25": 58,
       "2022-10-22": 32,
       "2022-10-21": 30,
-      "2022-10-12": 79,
-      "2022-10-09": 17
+      "2022-10-12": 79
     }
   }
 ]
